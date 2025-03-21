@@ -1,0 +1,30 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color ic_launcher_background
+color white
+drawable k
+drawable logo2
+drawable t
+drawable v
+id button
+id imageView
+id imageView2
+id imageView3
+id imageView4
+id main
+id scrollView3
+id textView
+id textView2
+layout activity_main
+layout activity_main2
+mipmap ic_launcher
+mipmap ic_launcher_foreground
+mipmap ic_launcher_round
+string NMedia
+string app_name
+string study
+style Base.Theme.Zanyat1
+style Theme.Zanyat1
+xml backup_rules
+xml data_extraction_rules

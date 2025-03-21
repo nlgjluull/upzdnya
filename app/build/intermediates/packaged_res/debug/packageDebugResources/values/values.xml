@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="ic_launcher_background">#FFFFFF</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="NMedia">NMedia</string>
+    <string name="app_name">NMedia</string>
+    <string name="study">We study in BTPIT</string>
+    <style name="Base.Theme.Zanyat1" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.Zanyat1" parent="Base.Theme.Zanyat1"/>
+</resources>
